@@ -1,0 +1,23 @@
+{
+  "name": "orgo_project",
+  "version": "1.0.0",
+  "description": "Test project for Orgo Ou",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerdarMustafa1/orgo_ou.git"
+  },
+  "author": "Serdar Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerdarMustafa1/orgo_ou/issues"
+  },
+  "homepage": "https://github.com/SerdarMustafa1/orgo_ou#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.0"
+  }
+}
